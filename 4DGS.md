@@ -1,4 +1,5 @@
-## CVPR2024
+## 4DGS and Deformable / Dynamic 3DGS papers
+
 #### [1] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin
 - **🏫 单位**： Zhejiang University ⟐ ByteDance Inc.
@@ -168,6 +169,3 @@
 - **🏫 单位**：Nanjing University ⟐ Institution of Automation, Chinese Academy of Science ⟐ Fudan University
 - **🔗 链接**：[[中英摘要](./abs/2403.14939.md)] [[arXiv:2403.14939](https://arxiv.org/abs/2403.14939)] [[Code](https://github.com/zeng-yifei/STAG4D)]
 - **📝 说明**：✏️
-
-
-
